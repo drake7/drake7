@@ -20,7 +20,7 @@ I am a Backend-developer with major experience in Java and Spring Framework. I w
 
 ## I'm a Developer & Learner!!
 
-- 🌱 I’m currently learning System Designs and Front End development 🤣
+- 🌱 I’m currently learning System Designs and Front End development
 - 👯 I’m looking to collaborate with other developers for FrontEnd Projects
 - 🥅 2022 Goals: Learn more about Cloud and Reactjs
 - ⚡ Fun fact: I love to code and play guitar / piano
