@@ -28,6 +28,9 @@ I am a Backend-developer with major experience in Java and Spring Framework. I w
 ### Connect with me:
 
 &nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/deepak-kumar-bir#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/deepak-kumar-bir#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 ### Languages and Tools:
 
