@@ -25,13 +25,6 @@ I am a Backend-developer with major experience in Java and Spring Framework. I w
 - 🥅 2022 Goals: Learn more about Cloud and Reactjs
 - ⚡ Fun fact: I love to code and play guitar / piano
 
-### Connect with me:
-
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/deepak-kumar-bir#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/deepak-kumar-bir#gh-dark-mode-only)
-&nbsp;&nbsp;
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
