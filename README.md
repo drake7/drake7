@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 # Hi there, I'm Deepak - 👋 
-I am a Backend-developer with major experience in Java and Spring Framework. I workded for Airtel-Xlabs,Amdocs and THBS in past 5 year and currently working for SRM Softwares(Vancouver).
+I am a backend developer with major experience in Java and Spring Framework. I worked for Airtel-Xlabs,Amdocs and THBS in past 5 year and am currently working for SRM Softwares(Vancouver).
 
 ## I'm a Developer & Learner!!
 
-- 🌱 I’m currently learning System Designs and Front End development
-- 👯 I’m looking to collaborate with other developers for FrontEnd Projects
-- 🥅 2022 Goals: Learn more about Cloud and Reactjs
-- ⚡ Fun fact: I love to code and play guitar / piano
+- 🌱 I’m currently learning AWS Developer.
+- 👯 I’m looking to collaborate with other developers for Large-scale Projects
+- 🥅 2024 Goals: Get AWS Certified and explore System Design.
+- ⚡ Fun fact: I love reading about system design and their implementations.
 
 ### Languages and Tools:
 
