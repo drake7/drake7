@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi there, I'm Deepak - 👋 
-I am a backend developer with major experience in Java and Spring Framework. I worked for SRM Software Inc, Airtel-Xlabs, Amdocs, and THBS in the past 5 years and am currently working for HCLTech Canada.
+I am a backend developer with major experience in Java and Spring Framework. I worked for SRM Software Inc, Airtel-Xlabs, Amdocs, and THBS in the past 6 years and am currently working for HCLTech Canada.
 
 ## I'm a Developer & Learner!!
 
